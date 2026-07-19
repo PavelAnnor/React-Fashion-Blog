@@ -1,0 +1,18 @@
+.navbarList {
+    font-size: 1.5rem;
+    padding: 0px;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+
+
+
+a{
+    text-decoration-style: none;
+    
+}
+
+a:visited{
+    text-decoration-style: none;
+}

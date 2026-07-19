@@ -1,0 +1,52 @@
+.blogPost {
+    margin-bottom: 4rem;
+    padding-bottom: 2rem;
+    border-bottom: solid 1px lightgray;
+}
+
+.blogTitle {
+    font-size: 2.2rem;
+}
+
+
+.blogText {
+    line-height: 1.5;
+    font-size: 1.2rem;
+}
+
+.blogText::first-letter{
+    font-size: 100px;
+        margin: 0px 5px 0px 2px;
+        float: left;
+        clear: none;
+        padding: 0px;
+        text-align: right;
+        border: solid;
+}
+
+
+.firstLetter {
+    font-size: 100px;
+    margin: 0px 5px 0px 2px;
+    float: left;
+    clear: none;
+    padding: 0px;
+    text-align: right;
+
+}
+
+.firstLetter p {
+    padding: 0px;
+}
+
+.continueText {
+
+    text-align: right;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+
+}
+
+time {
+    font-size: 2rem;
+}
